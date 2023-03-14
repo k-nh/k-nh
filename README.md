@@ -1,7 +1,5 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=330&section=header&text=Hi,+I'm+Nahee&fontSize=60)
-
 ### 📫 Contact
 <p>
   <a href="https://yesiamnahee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
